@@ -1,4 +1,4 @@
-# Zoo
+# Zoo (This is one great example for hierarchy)
 
 Create a package zoo. It needs to contain the following classes: 
 
